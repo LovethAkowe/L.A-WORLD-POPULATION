@@ -1,2 +1,5 @@
-# L.A-WORLD-POPULATION
-This dataset captures population trends for countries and territories globally from 1970 to 2022. It includes historical population figures, land area, growth rates, population density, and the share of each country’s population relative to the world.
+
+This dataset captures population trends for countries and territories globally from 1970 to 2022. It includes historical population figures, land area, growth rates, population density, and the share of each country’s population relative to the world. The dataset presents a historical and contemporary view of global population trends spanning over five decades, from 1970 to 2022.
+It provides insights into population distributions across continents and top countries at specific time intervals. Visual elements such as bar charts, treemaps, and maps help contextualize population changes geographically and numerically. Key demographic players like China, India, and the United States feature prominently in every time period.
+Africa’s significant population growth is highlighted, emphasizing its emerging demographic role globally. The dataset combines static and dynamic views to capture both absolute numbers and rates of change. It is a valuable tool for analysts, researchers, and policymakers interested in demographic transitions and global planning.
+
